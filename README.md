@@ -1,2 +1,2 @@
 # ExtractPickCounts
-this script imports a CSV file and extracts and transforms data from message traffic for a smart device.
+this script imports a CSV file and uses pandas and regex to find and extract desired information from the message traffic of a smart device.
